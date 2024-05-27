@@ -1,5 +1,6 @@
 ## Hi, I'm Jack 👋
-![image](https://github.com/Atral/Atral/assets/26579273/1af78266-1399-43e5-940b-6ff60cf818cb)
+![image](https://github.com/Atral/Atral/assets/26579273/04e3edf7-260b-4a99-aefd-2fc4790c9769)
+
 
 
 I'm a full stack developer with 3 years of professional experience. I have experience building and designing new features, creating RESTful APIs, reworking legacy systems, performing code reviews and managing deployment to live servers.
